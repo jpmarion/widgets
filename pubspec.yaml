@@ -76,6 +76,9 @@ flutter:
   # example:
   
   fonts:        
+    - family: CustomIcons
+      fonts:
+        - asset: asset/icons/CustomIcons.ttf
     - family: Nunito
       fonts:
         - asset: asset/font/nunito/Nunito-ExtraLight.ttf
